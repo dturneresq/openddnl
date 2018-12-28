@@ -1,2 +1,2 @@
 # openddnl
-Digital Dance Notation Language
+OPEN Digital Dance Notation Language
